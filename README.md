@@ -1,1 +1,1 @@
-# Microsoft-Protege
+# Microsoft Protégé Case Study Competition Slide Deck
